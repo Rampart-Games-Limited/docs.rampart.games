@@ -72,6 +72,6 @@ Admin tools, zombie tweaks, or gameplay overhauls should be apparent.,
 Maintain mod updates.
 
 Revisit the mod source pages to download updates.,\
-Always stop the server before replacing mod files.,
+Always stop the server before replacing mod files.
 {% endstep %}
 {% endstepper %}
