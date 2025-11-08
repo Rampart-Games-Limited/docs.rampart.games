@@ -47,7 +47,7 @@ Finally, restart your server to make the server use the mods.,
 {% step %}
 ### Example Modlist file
 
-Example modlist.txt file (file name may be CASE Sensitive)\
+Example modlist.txt file (file names ARE CASE Sensitive)\
 \*Mod1.pak\
 \*Mod2.pak\
 \*Mod3.pak\
