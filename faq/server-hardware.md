@@ -5,7 +5,7 @@ icon: server
 
 # Server Hardware
 
-Here at Rampart Games Limited we are striving to give all gamers the best hardware without compromise. Unlike others we pride ourselves on not over provisioning to drive the cost for you down. You receive what you pay for.
+Here at Rampart Games Limited we are striving to give all gamers the best hardware without compromise. Unlike others we pride ourselves on not over provisioning in order to provide the best possible experience. You receive what you pay for.
 
 ### Hardware specs
 
