@@ -72,13 +72,6 @@ Admin tools, zombie tweaks, or gameplay overhauls should be apparent.,
 Maintain mod updates.
 
 Revisit the mod source pages to download updates.,\
-Always stop the server before replacing mod files.,\
-,\
-7 Days to Die Mods\
-7 Days to Die Mods\
-Best 7 Days to Die mods are here for you! You can download all 7 Days to Die mods comfortably and quickly! Come and enjoy the 7DTD mods with us!\
-GitHub\
-GitHub - pardeike/Harmony: A library for patching, replacing and de...\
-A library for patching, replacing and decorating .NET and Mono methods during runtime - pardeike/Harmony
+Always stop the server before replacing mod files.,
 {% endstep %}
 {% endstepper %}
