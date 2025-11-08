@@ -1,0 +1,6 @@
+---
+icon: campfire
+---
+
+# DayZ
+
