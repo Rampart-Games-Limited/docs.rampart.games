@@ -1,3 +1,7 @@
+---
+icon: plug
+---
+
 # Connecting to Feudal.Tools
 
 

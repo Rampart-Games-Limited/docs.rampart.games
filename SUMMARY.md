@@ -17,3 +17,4 @@
 * [DayZ](game-knowledge-base/dayz.md)
 * [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own/README.md)
   * [Connecting to Feudal.Tools](game-knowledge-base/life-is-feudal-your-own/connecting-to-feudal.tools.md)
+  * [Toggle maintenance mode](game-knowledge-base/life-is-feudal-your-own/toggle-maintenance-mode.md)
