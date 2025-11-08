@@ -1,3 +1,7 @@
+---
+icon: screwdriver-wrench
+---
+
 # Conan modding help
 
 {% include "../../.gitbook/includes/conanheader.md" %}
