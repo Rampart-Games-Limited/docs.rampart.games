@@ -15,4 +15,5 @@
 * [Conan Exiles](game-knowledge-base/conan-exiles/README.md)
   * [Conan modding help](game-knowledge-base/conan-exiles/conan-modding-help.md)
 * [DayZ](game-knowledge-base/dayz.md)
-* [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own.md)
+* [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own/README.md)
+  * [Connecting to Feudal.Tools](game-knowledge-base/life-is-feudal-your-own/connecting-to-feudal.tools.md)
