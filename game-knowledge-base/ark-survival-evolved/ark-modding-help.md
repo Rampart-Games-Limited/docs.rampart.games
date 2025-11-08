@@ -6,8 +6,7 @@
 {% step %}
 Stop your ARK server.
 
-* Prevents file corruption or crashes during mod changes.\
-
+* Prevents file corruption or crashes during mod changes.
 {% endstep %}
 
 {% step %}
