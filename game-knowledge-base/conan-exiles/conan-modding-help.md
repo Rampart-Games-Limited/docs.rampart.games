@@ -30,10 +30,12 @@ Create a folder named "Mods",
 {% step %}
 Upload your mod files (.pak files) and the "modlist.txt" file into the new mods folder,
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 \
-Quick Tip: Click subscribe to mods on your steam and find the pak files in the location\
+[Quick Tip: Click subscribe to mods on your steam and find the pak files in the location\
 `\SteamLibrary\steamapps\workshop\content\440900`\
-(You may need to launch the game after subscribing for the folder to appear)
+(You may need to launch the game after subscribing for the folder to appear)](#user-content-fn-1)[^1]
 {% endstep %}
 
 {% step %}
@@ -52,3 +54,5 @@ Example modlist.txt file (file name may be CASE Sensitive)\
 \*Mod4.pak
 {% endstep %}
 {% endstepper %}
+
+[^1]: 
