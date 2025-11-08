@@ -1,5 +1,7 @@
 # 7 Days modding help
 
+<figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/7days2diethumb.png" alt=""><figcaption></figcaption></figure>
+
 {% stepper %}
 {% step %}
 ### Stop Server
@@ -80,4 +82,3 @@ GitHub - pardeike/Harmony: A library for patching, replacing and de...\
 A library for patching, replacing and decorating .NET and Mono methods during runtime - pardeike/Harmony
 {% endstep %}
 {% endstepper %}
-
