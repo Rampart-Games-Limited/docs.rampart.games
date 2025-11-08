@@ -1,0 +1,6 @@
+---
+icon: gamepad
+---
+
+# Game Server
+
