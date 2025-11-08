@@ -24,7 +24,7 @@ See this video for reference:\
 
 <figure><img src="../../.gitbook/assets/ft.gif" alt=""><figcaption><p>Copy over the details from the console to a new Feudal.Tools server entry</p></figcaption></figure>
 
-Whenver Feudal.Tools is telling you to turn off the server, turn on maintenance mode and restart your server instead.\
+Whenever Feudal.Tools is telling you to turn off the server, turn on maintenance mode and restart your server instead.\
 Feudal.Tools requires database access, the only way your database is running without your game server is when maintenance mode is turned **ON**
 {% endstep %}
 
