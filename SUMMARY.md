@@ -12,6 +12,7 @@
 * [7 Days to Die](game-knowledge-base/7-days-to-die.md)
 * [Ark: Survival Evolved](game-knowledge-base/ark-survival-evolved.md)
 * [Arma: Reforger](game-knowledge-base/arma-reforger.md)
-* [Conan Exiles](game-knowledge-base/conan-exiles.md)
+* [Conan Exiles](game-knowledge-base/conan-exiles/README.md)
+  * [Conan modding help](game-knowledge-base/conan-exiles/conan-modding-help.md)
 * [DayZ](game-knowledge-base/dayz.md)
 * [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own.md)
