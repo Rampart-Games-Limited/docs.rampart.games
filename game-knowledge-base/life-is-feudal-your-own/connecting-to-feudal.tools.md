@@ -6,15 +6,7 @@
 {% step %}
 #### Changing to maintenance mode
 
-In order to go in to maintenance mode, go to "Startup" on the left most menu.\
-Then scroll down until you find the toggle for "maintenance".\
-Ensure it is toggled on.
-
-<figure><img src="../../.gitbook/assets/lif_maintenance.gif" alt=""><figcaption><p>Putting your Life is Feudal: Your Own server in maintenance mode</p></figcaption></figure>
-
-In order to go in to maintenance mode, go to "Startup" on the left most menu.\
-Then scroll down until you find the toggle for "maintenance".\
-Ensure it is toggled on.
+{% include "../../.gitbook/includes/turn-on-maintenance-mode.md" %}
 {% endstep %}
 
 {% step %}
@@ -33,12 +25,8 @@ Feudal.Tools requires database access, the only way your database is running wit
 {% endstep %}
 
 {% step %}
-### Turn off Maintenance mode
+### Turn off maintenance mode
 
-Turning maintenance mode off is simply doing step 1 in reverse.\
-Go to "startup" in the left most menu and scroll down until you find maintenance.\
-Toggle maintenance off and restart your server
-
-<figure><img src="../../.gitbook/assets/maintenance_on.gif" alt=""><figcaption><p>Turning maintenance mode off</p></figcaption></figure>
+{% include "../../.gitbook/includes/turn-off-maintenance-mode.md" %}
 {% endstep %}
 {% endstepper %}
