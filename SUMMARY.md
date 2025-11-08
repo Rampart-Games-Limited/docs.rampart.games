@@ -9,7 +9,8 @@
 
 ## GAME KNOWLEDGE BASE
 
-* [7 Days to Die](game-knowledge-base/7-days-to-die.md)
+* [7 Days to Die](game-knowledge-base/7-days-to-die/README.md)
+  * [Mod Guide](game-knowledge-base/7-days-to-die/mod-guide.md)
 * [Ark: Survival Evolved](game-knowledge-base/ark-survival-evolved.md)
 * [Arma: Reforger](game-knowledge-base/arma-reforger.md)
 * [Conan Exiles](game-knowledge-base/conan-exiles/README.md)
