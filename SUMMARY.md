@@ -23,3 +23,5 @@
   * [Connecting to Feudal.Tools](game-knowledge-base/life-is-feudal-your-own/connecting-to-feudal.tools.md)
   * [Toggle maintenance mode](game-knowledge-base/life-is-feudal-your-own/toggle-maintenance-mode.md)
   * [Restart Timer](game-knowledge-base/life-is-feudal-your-own/restart-timer.md)
+* [Rust](game-knowledge-base/rust/README.md)
+  * [Rust Modding Guide](game-knowledge-base/rust/rust-modding-guide.md)
