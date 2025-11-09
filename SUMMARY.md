@@ -15,6 +15,7 @@
   * [Ark modding help](game-knowledge-base/ark-survival-evolved/ark-modding-help.md)
 * [Arma: Reforger](game-knowledge-base/arma-reforger/README.md)
   * [Reforger modding help](game-knowledge-base/arma-reforger/reforger-modding-help.md)
+  * [Reforger Manual mod install](game-knowledge-base/arma-reforger/reforger-manual-mod-install.md)
 * [Conan Exiles](game-knowledge-base/conan-exiles/README.md)
   * [Conan modding help](game-knowledge-base/conan-exiles/conan-modding-help.md)
 * [DayZ](game-knowledge-base/dayz.md)
