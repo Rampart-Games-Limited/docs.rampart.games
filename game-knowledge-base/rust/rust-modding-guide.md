@@ -58,7 +58,7 @@ Place all .cs plugin files into:/oxide/plugins
 {% endstep %}
 
 {% step %}
-Configure plugins (if needed)
+Configure plugins if needed in accordance with the mod instructions provided
 
 1. Start the server once after adding the plugins.
 2. Then stop it.
