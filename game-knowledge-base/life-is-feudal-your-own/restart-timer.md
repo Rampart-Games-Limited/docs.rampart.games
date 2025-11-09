@@ -19,14 +19,14 @@ Set a task 5 mins prior to restart
 
 Once the schedule is created you will see a schedule with no tasks
 
-<figure><img src="../../.gitbook/assets/emptyscedule.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/createtask.png" alt=""><figcaption></figcaption></figure>
 
 1. Click "New Task"
 2. Use the Action "Send Command"
 3.  For Payload use the below for a 5 min warning timer as pictured below\
     \- It will trigger the first warning message to be sent immediatly as the restart should be timed for 5 mins after the Power action this is perfect for the requirement.
 
-    <figure><img src="../../.gitbook/assets/newtask.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/newtask (1).png" alt=""><figcaption></figcaption></figure>
 
     ```
     LiFxUtility::messageAll(2480, "<spop><spush><color:f8c72d>SERVER RESTART IN 5 MINUTES\n<color:00ff00>GET TO A SAFE PLACE!<spop><spush>");
