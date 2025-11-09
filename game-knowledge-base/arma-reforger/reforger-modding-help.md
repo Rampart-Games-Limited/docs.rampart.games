@@ -63,6 +63,14 @@ Add the mod ID to the Config.json file
 
 Start the server and allow time for the mod install
 {% endstep %}
+
+{% step %}
+### Click here if mod install fails
+
+{% content-ref url="reforger-manual-mod-install.md" %}
+[reforger-manual-mod-install.md](reforger-manual-mod-install.md)
+{% endcontent-ref %}
+{% endstep %}
 {% endstepper %}
 
 
