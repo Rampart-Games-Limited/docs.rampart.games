@@ -62,7 +62,7 @@ Configure plugins (if needed)
 
 1. Start the server once after adding the plugins.
 2. Then stop it.
-3. Config files will be auto-generated in:/oxide/config
+3. Config files will be auto-generated in: `/oxide/config`
 4. Edit the .json files to customize settings for each plugin.
 
 
