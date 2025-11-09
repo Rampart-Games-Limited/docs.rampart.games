@@ -46,3 +46,8 @@ Once the schedule is created you will see a schedule with no tasks
 {% endstep %}
 {% endstepper %}
 
+For a more indepth understanding of Scheduled tasks please click below
+
+{% content-ref url="../../faq/scheduled-tasks.md" %}
+[scheduled-tasks.md](../../faq/scheduled-tasks.md)
+{% endcontent-ref %}
