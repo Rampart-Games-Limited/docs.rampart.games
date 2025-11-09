@@ -1,5 +1,7 @@
 # Reforger modding help
 
+{% include "../../.gitbook/includes/armareforger.md" %}
+
 {% stepper %}
 {% step %}
 ### Turn off the server
