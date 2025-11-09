@@ -1,5 +1,7 @@
 # Rust Modding Guide
 
+<figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/game-rust-art2.png" alt=""><figcaption></figcaption></figure>
+
 {% stepper %}
 {% step %}
 Stop your Rust server
@@ -105,4 +107,3 @@ Keep your server updated.
 
 {% endstep %}
 {% endstepper %}
-
