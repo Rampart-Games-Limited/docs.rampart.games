@@ -12,6 +12,7 @@
 
 * [7 Days to Die](game-knowledge-base/7-days-to-die/README.md)
   * [7 Days modding help](game-knowledge-base/7-days-to-die/7-days-modding-help.md)
+  * [Admin Commands](game-knowledge-base/7-days-to-die/admin-commands.md)
 * [Ark: Survival Evolved](game-knowledge-base/ark-survival-evolved/README.md)
   * [Ark modding help](game-knowledge-base/ark-survival-evolved/ark-modding-help.md)
 * [Arma: Reforger](game-knowledge-base/arma-reforger/README.md)
