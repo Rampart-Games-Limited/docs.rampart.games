@@ -25,6 +25,7 @@
 * [DayZ](game-knowledge-base/dayz/README.md)
   * [Steam Update](game-knowledge-base/dayz/steam-update.md)
   * [DayZ modding help](game-knowledge-base/dayz/dayz-modding-help.md)
+  * [Dayz Admin Commands](game-knowledge-base/dayz/dayz-admin-commands.md)
 * [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own/README.md)
   * [Connecting to Feudal.Tools](game-knowledge-base/life-is-feudal-your-own/connecting-to-feudal.tools.md)
   * [Toggle maintenance mode](game-knowledge-base/life-is-feudal-your-own/toggle-maintenance-mode.md)
