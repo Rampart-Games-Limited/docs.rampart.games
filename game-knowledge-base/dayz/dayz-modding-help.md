@@ -3,7 +3,7 @@ description: Quick Guide on Dayz modding
 icon: turn-up
 ---
 
-# DayZ Modding Guide
+# DayZ modding help
 
 {% include "../../.gitbook/includes/dayz.md" %}
 
@@ -38,9 +38,7 @@ To avoid potential Corruption of files.
 
 1. Click Startup under CONFIGURATION on the left menu
 
-
-
-
+<figure><img src="../../.gitbook/assets/config.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
