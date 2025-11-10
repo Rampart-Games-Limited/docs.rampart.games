@@ -4,10 +4,15 @@ title: Dayz
 
 <figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/dayzman.jpg" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../game-knowledge-base/dayz/dayz-modding-help.md" %}
-[dayz-modding-help.md](../../game-knowledge-base/dayz/dayz-modding-help.md)
-{% endcontent-ref %}
+{% columns %}
+{% column %}
+<a href="../../game-knowledge-base/dayz/dayz-admin-commands.md" class="button primary">Admin Commands</a> \
+\
+\
+<a href="../../game-knowledge-base/dayz/steam-update.md" class="button primary">Dayz Steam Update</a>
+{% endcolumn %}
 
-{% content-ref url="../../game-knowledge-base/dayz/steam-update.md" %}
-[steam-update.md](../../game-knowledge-base/dayz/steam-update.md)
-{% endcontent-ref %}
+{% column %}
+<a href="../../game-knowledge-base/dayz/dayz-modding-help.md" class="button primary">Modding Help</a>
+{% endcolumn %}
+{% endcolumns %}
