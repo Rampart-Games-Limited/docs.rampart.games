@@ -31,6 +31,23 @@ To avoid potential Corruption of files.
 * Check for updates on mods you have installed.
 
 &#x20;  \- Update as Required, to avoid issues.
+{% endstep %}
+
+{% step %}
+### Start server
+
+1. Ensure the steam update button is toggled
+2. Start server\
+   &#x20;\- Check Steam update is applied
+3. Turn off server
+4. Upload your backed up Mpmissions folder.
+5. Start server again
+{% endstep %}
+
+{% step %}
+### Enjoy
+
+Your steam update should be complete with less work required then usual
 
 
 {% endstep %}
