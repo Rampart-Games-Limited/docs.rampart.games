@@ -42,9 +42,7 @@ To avoid potential Corruption of files.
 {% endstep %}
 
 {% step %}
-### Enjoy
-
-Your steam update should be complete with less work required then usual
+### To be continued...
 
 
 {% endstep %}
