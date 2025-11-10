@@ -15,6 +15,7 @@
   * [Admin Commands](game-knowledge-base/7-days-to-die/admin-commands.md)
 * [Ark: Survival Evolved](game-knowledge-base/ark-survival-evolved/README.md)
   * [Ark modding help](game-knowledge-base/ark-survival-evolved/ark-modding-help.md)
+  * [Ark Admin Commands](game-knowledge-base/ark-survival-evolved/ark-admin-commands.md)
 * [Arma: Reforger](game-knowledge-base/arma-reforger/README.md)
   * [Reforger modding help](game-knowledge-base/arma-reforger/reforger-modding-help.md)
   * [Reforger Manual mod install](game-knowledge-base/arma-reforger/reforger-manual-mod-install.md)
