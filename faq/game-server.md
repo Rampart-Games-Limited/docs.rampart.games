@@ -20,3 +20,7 @@ Normally it should be up within minutes if not seconds.\
 Look for an email that tells you that the server is installed, at that point you have been issued a server.
 
 </details>
+
+{% content-ref url="game-server/configuration.md" %}
+[configuration.md](game-server/configuration.md)
+{% endcontent-ref %}
