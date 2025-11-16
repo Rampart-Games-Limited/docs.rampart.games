@@ -20,7 +20,13 @@ Select your Docker image version.
 {% endstep %}
 
 {% step %}
-Click start and watch console for errors.\
+Make any changes to the bots configuration files required\
+Hopefully this is documented on the bot you are using.
+{% endstep %}
+
+{% step %}
+Click start and watch console for errors.
+
 
 {% endstep %}
 {% endstepper %}
