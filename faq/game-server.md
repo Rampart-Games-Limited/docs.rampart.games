@@ -23,7 +23,7 @@ Look for an email that tells you that the server is installed, at that point you
 
 <details>
 
-<summary>Configuration</summary>
+<summary>How to i configure my game server?</summary>
 
 To Configure your game server please edit the variables in the startup area of your game server panel to make changes
 
