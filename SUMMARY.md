@@ -38,4 +38,4 @@
 ## DISCORD BOT HOSTING KNOWLEDGE BASE
 
 * [Discord Bot Hosting](discord-bot-hosting-knowledge-base/discord-bot-hosting/README.md)
-  * [Rust Modding Guide](discord-bot-hosting-knowledge-base/discord-bot-hosting/rust-modding-guide.md)
+  * [Discord Bot hosting Guide](discord-bot-hosting-knowledge-base/discord-bot-hosting/discord-bot-hosting-guide.md)
