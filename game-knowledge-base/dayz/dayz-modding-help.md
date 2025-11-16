@@ -38,7 +38,7 @@ To avoid potential Corruption of files.
 
 1. Click Startup under CONFIGURATION on the left menu
 
-<figure><img src="../../.gitbook/assets/config.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/config (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
