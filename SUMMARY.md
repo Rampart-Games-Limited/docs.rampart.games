@@ -34,3 +34,8 @@
   * [GM Commands](game-knowledge-base/life-is-feudal-your-own/gm-commands.md)
 * [Rust](game-knowledge-base/rust/README.md)
   * [Rust Modding Guide](game-knowledge-base/rust/rust-modding-guide.md)
+
+## DISCORD BOT HOSTING KNOWLEDGE BASE
+
+* [Discord Bot Hosting](discord-bot-hosting-knowledge-base/discord-bot-hosting/README.md)
+  * [Rust Modding Guide](discord-bot-hosting-knowledge-base/discord-bot-hosting/rust-modding-guide.md)
