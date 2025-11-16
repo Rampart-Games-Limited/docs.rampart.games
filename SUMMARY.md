@@ -6,7 +6,6 @@
 
 * [Server Hardware](faq/server-hardware.md)
 * [Game Server](faq/game-server.md)
-  * [Configuration](faq/game-server/configuration.md)
 * [Scheduled Tasks](faq/scheduled-tasks.md)
 
 ## GAME KNOWLEDGE BASE
