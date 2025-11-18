@@ -52,7 +52,8 @@ Once Completed feel free to use the service as normal.
 
 ## Restoring a Backup
 
-1\) Click Backups
+1\) Click Backups\
+
 
 2\) Click the 3 dots next to the backup and click "Restore" from the drop down menu
 
