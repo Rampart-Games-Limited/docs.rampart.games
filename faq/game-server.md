@@ -38,11 +38,11 @@ To Configure your game server please edit the variables in the startup area of y
 
 <summary>How to Create/Restore a backup?</summary>
 
-To Create a backup&#x20;
+## To Create a backup&#x20;
 
 1\) Click Backups on the left menu\
 \
-2\) Click create Backup once the page displays this.
+2\) Click "Create Backup" once the page displays this.
 
 * It is advised to stop the server Prior to doing this.
 
