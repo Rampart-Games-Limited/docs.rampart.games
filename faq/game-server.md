@@ -36,7 +36,7 @@ To Configure your game server please edit the variables in the startup area of y
 
 <details>
 
-<summary>How to create a backup?</summary>
+<summary>How to Create/Restore a backup?</summary>
 
 To Create a backup&#x20;
 
