@@ -67,7 +67,7 @@ Once Completed feel free to use the service as normal.
 
 <summary>How do i Reinstall Service?</summary>
 
-## To reinstall your service
+## To Reinstall your service
 
 1\) Click "Settings" on your left menu\
 2\) Click "Reinstall Server" when the page loads.\
@@ -77,5 +77,30 @@ This may and most likely will Reinstall service removing any and all mods.
 <figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/reinstallservice.png" alt=""><figcaption></figcaption></figure>
 
 
+
+</details>
+
+<details>
+
+<summary>How do i give others access to manage my Server?</summary>
+
+### **To give others access to manage your server**
+
+**Simply follow the below steps**\
+1\) Click "Users" on the left menu
+
+2\) Click "New User" when the page loads.
+
+<figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/users.png" alt=""><figcaption></figcaption></figure>
+
+3\) Enter the new Users Email address into the "User Email" field
+
+Select the boxes you wish the new user to have as pictured below
+
+<figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/users2.png" alt=""><figcaption></figcaption></figure>
+
+4\) Click "Invite User"
+
+* The new User will now get a email to click a link and follow the steps to gain access to help you manage your Server!
 
 </details>
