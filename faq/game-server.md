@@ -62,3 +62,18 @@ Once Completed feel free to use the service as normal.
 Once Completed feel free to use the service as normal.
 
 </details>
+
+<details>
+
+<summary>How do i Reinstall Service?</summary>
+
+## To reinstall your service
+
+1\) Click "Settings" on your left menu \
+2\) Click "Reinstall Server" when the page loads.
+
+* This may and most likely will Reinstall service removing any and all mods.
+
+<figure><img src="https://rampart.games/templates/lagom2/assets/img/page-manager/reinstallservice.png" alt=""><figcaption></figcaption></figure>
+
+</details>
