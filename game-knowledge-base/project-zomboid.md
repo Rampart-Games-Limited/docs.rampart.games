@@ -1,5 +1,5 @@
 ---
-icon: wheat-awn
+icon: biohazard
 ---
 
 # Project Zomboid

@@ -1,5 +1,5 @@
 ---
-icon: swords
+icon: explosion
 ---
 
 # Rust

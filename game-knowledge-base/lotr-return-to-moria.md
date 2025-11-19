@@ -1,5 +1,5 @@
 ---
-icon: wheat-awn
+icon: rings-wedding
 ---
 
 # LOTR: Return to Moria

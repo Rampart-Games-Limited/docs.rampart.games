@@ -1,5 +1,5 @@
 ---
-icon: wheat-awn
+icon: v
 ---
 
 # Valheim
