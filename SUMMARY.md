@@ -40,6 +40,7 @@
   * [Faq](game-knowledge-base/squad/faq.md)
 * [Scum](game-knowledge-base/scum/README.md)
   * [Faq](game-knowledge-base/scum/faq.md)
+  * [Admin Commands](game-knowledge-base/scum/admin-commands.md)
 * [Minecraft](game-knowledge-base/minecraft.md)
   * [Faq](game-knowledge-base/minecraft/faq.md)
 * [VRising](game-knowledge-base/vrising.md)
