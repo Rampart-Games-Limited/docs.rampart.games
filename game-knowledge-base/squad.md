@@ -1,0 +1,6 @@
+---
+icon: wheat-awn
+---
+
+# Squad
+
