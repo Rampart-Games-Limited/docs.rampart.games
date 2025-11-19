@@ -23,3 +23,83 @@ Once you have waited for 5 mins (assuming you have not restarted server, ou will
 5\) For a list of admin commands Type/paste "list" to the console
 
 </details>
+
+<details>
+
+<summary>Why isn’t my server showing up in the server list?</summary>
+
+Common issues:
+
+* Server still loading world data
+* Wrong or blocked ports
+* Filters in the server browser hiding your server
+* Version mismatch after a patch
+* Server set to **LAN mode**\
+
+
+**Please contact Rampart support if none of these are your issue**
+
+</details>
+
+<details>
+
+<summary>How do I change PvP or PvE settings?</summary>
+
+Edit **ServerGameSettings.json**.\
+You can modify:
+
+* PvE / PvP / Full Loot PvP
+* Damage modifiers
+* Siege timers
+* Castle raid settings
+* Blood drain + death penalties
+* Resource drop rates
+* Sun damage
+* Clan size
+
+</details>
+
+<details>
+
+<summary>How do I wipe my V Rising server?</summary>
+
+A wipe is done by deleting your world save folder:
+
+```
+VRisingServer/Saves/<SaveName>/
+```
+
+Make sure the server is **stopped** before wiping.
+
+</details>
+
+<details>
+
+<summary>How do I install mods?</summary>
+
+V Rising supports modding through community tools, not official Workshop.\
+Steps generally include:
+
+1. Install the mod loader used by the mod.
+2. Place mod files in the required directory.
+3. Restart server and ensure clients have matching mods.
+
+(Compatibility varies depending on version and mod loader.)
+
+</details>
+
+<details>
+
+<summary>Can I change clan size or castle limitations?</summary>
+
+Yes — in **ServerGameSettings.json**:
+
+* Clan size
+* Number of castles per player
+* Castle deterioration rate
+* Siege damage settings
+* PvP timers
+
+These settings help customize your server’s gameplay style.
+
+</details>
