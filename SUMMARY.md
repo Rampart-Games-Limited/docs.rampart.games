@@ -34,6 +34,7 @@
   * [GM Commands](game-knowledge-base/life-is-feudal-your-own/gm-commands.md)
 * [Rust](game-knowledge-base/rust/README.md)
   * [Rust Modding Guide](game-knowledge-base/rust/rust-modding-guide.md)
+  * [Rust Server is not listed in browser](game-knowledge-base/rust/rust-server-is-not-listed-in-browser.md)
 
 ## DISCORD BOT HOSTING KNOWLEDGE BASE
 

@@ -34,7 +34,7 @@ Create a folder named "Mods",
 {% step %}
 Upload your mod files (.pak files) and the "modlist.txt" file into the new mods folder,
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 \
 [Quick Tip: Click subscribe to mods on your steam and find the pak files in the location\

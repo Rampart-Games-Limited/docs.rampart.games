@@ -104,3 +104,16 @@ Select the boxes you wish the new user to have as pictured below
 * The new User will now get a email to click a link and follow the steps to gain access to help you manage your Server!
 
 </details>
+
+<details>
+
+<summary>I would like a game server but the game is not listed in your store can it still be hosted?</summary>
+
+Great news! \
+We may beable to support the game you would like, just let us know and we will take a look.\
+\
+Please contact us via our ticket system or through our discord\
+\
+Our discord [https://discord.gg/Undaqb2zg2](https://discord.gg/Undaqb2zg2)
+
+</details>
