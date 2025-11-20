@@ -145,3 +145,30 @@ else
   &#x20;                          <mark style="color:red;">**MANUALLY TRIGGER IT EDITING THE MAIN.CS FILE**</mark>
 
 </details>
+
+<details>
+
+<summary>Why are Wild animals on my server not moving and/or in water?</summary>
+
+If this happens this is a result of your navmesh, to resolve this simply\
+
+
+1. Turn off your server and delete the following
+
+* NavMesh file (nm1.nmesh)
+* cache Folder
+
+These are located on your server at
+
+```
+data/navMeshes
+```
+
+2. Turn the server back on and allow the navmesh to rebuild.
+
+This will also fix tracking issues animal foot prints not showing when you search for wild animals.
+
+\
+
+
+</details>
