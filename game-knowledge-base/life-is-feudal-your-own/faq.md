@@ -121,8 +121,8 @@ if($compileAll)
 else
 {
    exec("scripts/root.cs");
-   exec("TTmod/init.cs");
-   exec("Tradepost/init.cs");
+   exec("TTmod/init.cs"); // This is TTmod and is not mandatory
+   exec("Tradepost/init.cs"); // This is Tradepost mod and is not mandatory
    exec("mods/yolauncher/init.cs");
 }
 ```
