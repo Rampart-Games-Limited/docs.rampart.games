@@ -41,7 +41,7 @@ Locate the ServerSettings.ini file which should be located at the below location
 home/container/ConanSandbox/Saved/Config/WindowsServer/ServerSettings.ini
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 you will need to change and set the two modifiers to the below\
 \
@@ -49,7 +49,7 @@ set the below settings to: \
 CombatModeModifier=1 \
 &#x20;PVPEnabled=True
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you would like to set days to allow for pvp time edit the below Variables\
 PVPTimeMondayStart=0\
