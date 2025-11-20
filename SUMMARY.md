@@ -41,7 +41,7 @@
 * [LOTR: Return to Moria](game-knowledge-base/lotr-return-to-moria/README.md)
   * [Faq](game-knowledge-base/lotr-return-to-moria/faq.md)
 * [Minecraft](game-knowledge-base/minecraft.md)
-  * [Faq](game-knowledge-base/minecraft/faq.md)
+  * [FAQ](game-knowledge-base/minecraft/faq.md)
 * [Mordhau](game-knowledge-base/mordhau/README.md)
   * [Faq](game-knowledge-base/mordhau/faq.md)
 * [Project Zomboid](game-knowledge-base/project-zomboid/README.md)
