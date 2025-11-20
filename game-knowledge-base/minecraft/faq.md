@@ -1,5 +1,7 @@
 # Faq
 
+{% include "../../.gitbook/includes/minecraft.md" %}
+
 <details>
 
 <summary>How can i set autohealing?</summary>
