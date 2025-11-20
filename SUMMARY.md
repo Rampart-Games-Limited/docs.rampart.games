@@ -21,6 +21,7 @@
   * [Reforger modding help](game-knowledge-base/arma-reforger/reforger-modding-help.md)
   * [Reforger Manual mod install](game-knowledge-base/arma-reforger/reforger-manual-mod-install.md)
 * [Conan Exiles](game-knowledge-base/conan-exiles/README.md)
+  * [Faq](game-knowledge-base/conan-exiles/faq.md)
   * [Conan modding help](game-knowledge-base/conan-exiles/conan-modding-help.md)
   * [Conan Admin commands](game-knowledge-base/conan-exiles/conan-admin-commands.md)
 * [DayZ](game-knowledge-base/dayz/README.md)
