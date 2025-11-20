@@ -75,12 +75,19 @@ In the Server Manager’s detail page you can toggle the tradepost mod on and of
 4\) Extract the zip files contents that you recently Downloaded to the mods folder Directory
 
 * IF  YOU HAVE THE LIFX FRAMEWORK INSTALLED IT WILL LOAD AUTOMATICALLY FOR YOU.
-*   If you do not have the Lifx Framework installed, you will need to add a new Exec command to your main.cs file which resides in the route directory.\
+
+<mark style="color:red;">PROCEED TO STEP 5</mark> \
+<mark style="color:red;">If LiFx Framework is already installed</mark>\
+\
+\
+If you do not have the Lifx Framework installed, \
+\
+You will need to add a new Exec command to your main.cs file which resides in the route directory.\
 
 
-    ```
-    exec("mods/yolauncher/init.cs");
-    ```
+```
+exec("mods/yolauncher/init.cs");
+```
 
 The block should now look like the below
 
