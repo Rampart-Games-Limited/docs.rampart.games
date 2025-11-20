@@ -38,7 +38,10 @@ In order to get the trading post mod up and running on your server, the server m
 #### Download the server-side mod
 
 First you have to download the server-side mod files. You can find the download option in \
-[feudal tools](https://feudal.tools/) Server Manager on each servers detail page.
+[feudal tools](https://feudal.tools/) Server Manager on each servers detail page.\
+
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Unzip the Tradepost folder in your server main directory (where the .exe is located).
 
@@ -57,6 +60,8 @@ Restart the server after this.
 #### Activate The Tradepost Mod
 
 In the Server Manager’s detail page you can toggle the tradepost mod on and off for each server. **Note that it is OFF by default**. You’ll have to enable it if you are using the tradepost mod for the first time on this server. The enable/disable option is available for premium accounts only.
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
