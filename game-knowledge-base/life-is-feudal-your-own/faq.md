@@ -28,3 +28,107 @@ All Servers at Rampart Come with a Backup System that you Control
 * Quick Backup Restoration!
 
 </details>
+
+<details>
+
+<summary>How do i install tradepost mod?</summary>
+
+In order to get the trading post mod up and running on your server, the server must be registered and permanently connected in the FeudalTools Server Manager using an active premium account.
+
+#### Download the server-side mod
+
+First you have to download the server-side mod files. You can find the download option in FeudalTools’ Server Manager on each servers detail page.
+
+Unzip the Tradepost folder in your server main directory (where the .exe is located).
+
+#### Tradepost Mod Setup
+
+Edit the contained config.cs file in the Tradepost folder and adjust the ServerID setting. It must match your servers ID on the Server Managers detail page for your server. There’s an example in the Tradepost Mod download dialog.
+
+Furthermore, add this line to the end of your servers **main.cs** file:
+
+```
+exec("Tradepost/init.cs");
+```
+
+Restart the server after this.
+
+#### Activate The Tradepost Mod
+
+In the Server Manager’s detail page you can toggle the tradepost mod on and off for each server. **Note that it is OFF by default**. You’ll have to enable it if you are using the tradepost mod for the first time on this server. The enable/disable option is available for premium accounts only.
+
+</details>
+
+<details>
+
+<summary>How do i install the Yolauncher connector?</summary>
+
+1\) Load up and login to the page [https://yolauncher.app/](https://yolauncher.app/)
+
+2\) Create Server by clicking the "Add Server" Button\
+![](<../../.gitbook/assets/image (3).png>)
+
+3\) Once you have Entered the name you will see the below, please click the downward arrow to download the Connector.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+4\) Extract the zip files contents that you recently Downloaded to the mods folder Directory
+
+* IF  YOU HAVE THE LIFX FRAMEWORK INSTALLED IT WILL LOAD AUTOMATICALLY FOR YOU.
+*   If you do not have the Lifx Framework installed, you will need to add a new Exec command to your main.cs file which resides in the route directory.\
+
+
+    ```
+    exec("mods/yolauncher/init.cs");
+    ```
+
+The block should now look like the below
+
+```
+function compileFiles(%pattern)
+{  
+   %path = filePath(%pattern);
+
+   %saveDSO    = $Scripts::OverrideDSOPath;
+   %saveIgnore = $Scripts::ignoreDSOs;
+   
+   $Scripts::OverrideDSOPath  = %path;
+   $Scripts::ignoreDSOs       = false;
+   %mainCsFile = "main.cs";//makeFullPath("main.cs");
+   %localConfigFile = "config_local.cs";
+   %ddctdConfigFile = "ddctd_config.cs";
+
+   for (%file = findFirstFileMultiExpr(%pattern); %file !$= ""; %file = findNextFileMultiExpr(%pattern))
+   {
+      // we don't want to try and compile the primary main.cs
+      if(%mainCsFile !$= %file && %localConfigFile !$= %file && %ddctdConfigFile !$= %file)      
+         compile(%file, true);
+   }
+
+   $Scripts::OverrideDSOPath  = %saveDSO;
+   $Scripts::ignoreDSOs       = %saveIgnore;
+}
+
+if($compileAll)
+{
+   echo(" --- Compiling all files ---");
+   compileFiles("*.cs");
+   compileFiles("*.gui");
+   compileFiles("*.ts");  
+   echo(" --- Exiting after compile ---");
+   quit();
+}
+else
+{
+   exec("scripts/root.cs");
+   exec("TTmod/init.cs");
+   exec("Tradepost/init.cs");
+   exec("mods/yolauncher/init.cs");
+}
+```
+
+5\) Restart or Start your server for the yolauncher app to load and create a "handshake"
+
+* This now meens you have proven to Yolauncher you own this game server and you can now upload modpacks and set your settings
+
+</details>
