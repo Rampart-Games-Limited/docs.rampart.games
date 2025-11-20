@@ -28,3 +28,17 @@ All Servers at Rampart Come with a Backup System that you Control
 * Quick Backup Restoration!
 
 </details>
+
+<details>
+
+<summary>How do i set my server to PVE-C ?</summary>
+
+you will need to change set these two modifiers to the below\
+\
+CombatModeModifier=1&#x20;
+
+&#x20;PVPEnabled=True\
+\
+This can be done using the hosting panel.
+
+</details>
