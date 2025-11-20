@@ -57,7 +57,7 @@ Once Completed feel free to use the service as normal.
 
 2\) Click the 3 dots next to the backup and click "Restore" from the drop down menu
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Once Completed feel free to use the service as normal.
 

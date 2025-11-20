@@ -67,7 +67,7 @@ In the Server Manager’s detail page you can toggle the tradepost mod on and of
 1\) Load up and login to the page [https://yolauncher.app/](https://yolauncher.app/)
 
 2\) Create Server by clicking the "Add Server" Button\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 3\) Once you have Entered the name you will see the below, please click the downward arrow to download the Connector.
 
