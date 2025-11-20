@@ -129,6 +129,11 @@ else
 
 5\) Restart or Start your server for the yolauncher app to load and create a "handshake"
 
-* This now meens you have proven to Yolauncher you own this game server and you can now upload modpacks and set your settings
+* This now meens you have proven to Yolauncher you own this game server and you can now upload modpacks and set your settings\
+  \
+  <mark style="color:red;">**IT IS IMPORTANT TO ONLY USE ONE METHOD TO ACTIVATE THE YOLAUNCHER**</mark>\
+  &#x20;                                    <mark style="color:red;">**ALLOW LIFX FRAMEWORK TO LOAD IT**</mark>\
+  &#x20;                                                                   <mark style="color:red;">**OR**</mark>\
+  &#x20;                          <mark style="color:red;">**MANUALLY TRIGGER IT EDITING THE MAIN.CS FILE**</mark>
 
 </details>
