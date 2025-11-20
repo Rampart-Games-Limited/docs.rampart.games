@@ -4,6 +4,8 @@ icon: comment-question
 
 # Faq
 
+{% include "../../.gitbook/includes/conanheader.md" %}
+
 <details>
 
 <summary>How do I fix performance issues ?</summary>
