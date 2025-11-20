@@ -1,5 +1,7 @@
 # Faq
 
+{% include "../../.gitbook/includes/mordhau.md" %}
+
 <details>
 
 <summary>Where is the best place to get mods?</summary>
