@@ -172,3 +172,17 @@ This will also fix tracking issues animal foot prints not showing when you searc
 
 
 </details>
+
+<details>
+
+<summary>Where can i find mods for Life Is Feudal?</summary>
+
+We reccomend using the website:\
+[https://lifxmod.com/](https://lifxmod.com/)\
+\
+to download mods for installing on your game server\
+\
+These mods are updated frequently and give documentation on how to install the mods.\
+a Discord is also available to ask questions which can be found on the LiFx website.
+
+</details>
