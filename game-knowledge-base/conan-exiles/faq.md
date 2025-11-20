@@ -33,7 +33,7 @@ All Servers at Rampart Come with a Backup System that you Control
 
 <summary>How do i set my server to PVE-C ?</summary>
 
-you will need to change set these two modifiers to the below\
+you will need to change and set the two modifiers to the below\
 \
 CombatModeModifier=1&#x20;
 
