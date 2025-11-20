@@ -37,7 +37,8 @@ In order to get the trading post mod up and running on your server, the server m
 
 #### Download the server-side mod
 
-First you have to download the server-side mod files. You can find the download option in FeudalTools’ Server Manager on each servers detail page.
+First you have to download the server-side mod files. You can find the download option in \
+[feudal tools](https://feudal.tools/) Server Manager on each servers detail page.
 
 Unzip the Tradepost folder in your server main directory (where the .exe is located).
 
