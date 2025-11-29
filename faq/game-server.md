@@ -27,8 +27,7 @@ Look for an email that tells you that the server is installed, at that point you
 
 To Configure your game server please edit the variables in the startup area of your game server panel to make changes
 
-*   Any settings here will override your files at each startup\
-
+*   Any settings here will override your files at each startup<br>
 
     <figure><img src="../.gitbook/assets/config.png" alt=""><figcaption></figcaption></figure>
 
@@ -52,8 +51,7 @@ Once Completed feel free to use the service as normal.
 
 ## Restoring a Backup
 
-1\) Click Backups\
-
+1\) Click Backups<br>
 
 2\) Click the 3 dots next to the backup and click "Restore" from the drop down menu
 

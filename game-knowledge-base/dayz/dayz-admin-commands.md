@@ -37,4 +37,4 @@ icon: turn-up
 | #beclient players | Lists the BE GUIDs of the players. |
 | #beclient guid    | Shows your own BE GUID.            |
 
-\
+<br>

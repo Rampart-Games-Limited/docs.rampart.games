@@ -38,8 +38,7 @@ In order to get the trading post mod up and running on your server, the server m
 #### Download the server-side mod
 
 First you have to download the server-side mod files. You can find the download option in \
-[feudal tools](https://feudal.tools/) Server Manager on each servers detail page.\
-
+[feudal tools](https://feudal.tools/) Server Manager on each servers detail page.<br>
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -88,8 +87,7 @@ In the Server Manager’s detail page you can toggle the tradepost mod on and of
 \
 If you do not have the Lifx Framework installed, \
 \
-You will need to add a new Exec command to your main.cs file which resides in the route directory.\
-
+You will need to add a new Exec command to your main.cs file which resides in the route directory.<br>
 
 ```
 exec("mods/yolauncher/init.cs");
@@ -155,8 +153,7 @@ else
 
 <summary>Why are Wild animals on my server not moving and/or in water?</summary>
 
-If this happens this is a result of your navmesh, to resolve this simply\
-
+If this happens this is a result of your navmesh, to resolve this simply<br>
 
 1. Turn off your server and delete the following
 
@@ -173,8 +170,7 @@ data/navMeshes
 
 This will also fix tracking issues animal foot prints not showing when you search for wild animals.
 
-\
-
+<br>
 
 </details>
 

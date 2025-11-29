@@ -1,4 +1,4 @@
-# Faq
+# FAQ
 
 {% include "../../.gitbook/includes/minecraft.md" %}
 
@@ -21,8 +21,7 @@ In the server console or terminal, run:
 op <playername>
 ```
 
-You can also edit `ops.json` manually.\
-
+You can also edit `ops.json` manually.<br>
 
 </details>
 

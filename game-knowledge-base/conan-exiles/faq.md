@@ -94,8 +94,7 @@ to enable pvp to be set for specific days please set the variables to true. Exam
 PVPEnabledSunday=true
 ```
 
-you can also allow damage to buildings by setting the below\
-
+you can also allow damage to buildings by setting the below<br>
 
 ```
 PVPBuildingDamageTimeSundayStart=12
@@ -103,8 +102,7 @@ PVPBuildingDamageTimeSundayEnd=13
 ```
 
 This will allow damage for 1 hour to all buildings \
-Which in effect would allow you to set the below\
-
+Which in effect would allow you to set the below<br>
 
 ```
 PVPTimeSundayStart=12

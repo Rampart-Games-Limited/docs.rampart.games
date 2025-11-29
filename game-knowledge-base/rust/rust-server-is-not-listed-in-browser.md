@@ -47,8 +47,7 @@ The following can get your game server Blacklisted
 * Fake wipes
 * Ignoring/violating terms of service (TOS)&#x20;
 * Banned plugins\
-  \
-
+  <br>
 
 If none of these are your issue please create a ticket with our team and allow us to look into this for you.
 {% endstep %}

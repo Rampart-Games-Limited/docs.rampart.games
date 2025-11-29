@@ -7,8 +7,7 @@ icon: turn-up
 
 {% include "../../.gitbook/includes/dayz.md" %}
 
-Steam Updates can create issues for you on updates, therefore to protect yourself and your game server please follow the steps below\
-
+Steam Updates can create issues for you on updates, therefore to protect yourself and your game server please follow the steps below<br>
 
 {% stepper %}
 {% step %}

@@ -6,8 +6,7 @@ title: Dayz
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-<a href="../../game-knowledge-base/dayz/dayz-admin-commands.md" class="button primary">Admin Commands</a> \
-
+<a href="../../game-knowledge-base/dayz/dayz-admin-commands.md" class="button primary">Admin Commands</a> <br>
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}

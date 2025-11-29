@@ -19,8 +19,7 @@ icon: plug
 On Feudal.Tools add a new server and ensure to copy over the details without trailing spaces.\
 All the details you need for feudal.tools will be displayed on the console when running in maintenance mode
 
-See this video for reference:\
-
+See this video for reference:<br>
 
 <figure><img src="../../.gitbook/assets/ft.gif" alt=""><figcaption><p>Copy over the details from the console to a new Feudal.Tools server entry</p></figcaption></figure>
 

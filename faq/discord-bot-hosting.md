@@ -25,14 +25,12 @@ Look for an email that tells you that the server is installed, at that point you
 
 <summary>How to configure my bot hosting?</summary>
 
-To Configure your bot hosting please edit the variables in the startup area of the panel to make changes\
-
+To Configure your bot hosting please edit the variables in the startup area of the panel to make changes<br>
 
 *   Choose the correct Docker image for your bot
 
     <figure><img src="../.gitbook/assets/Dockerimage.png" alt=""><figcaption></figcaption></figure>
-*   Any settings here will override your settings at each startup\
-
+*   Any settings here will override your settings at each startup<br>
 
     <figure><img src="../.gitbook/assets/Discordbot.png" alt=""><figcaption></figcaption></figure>
 

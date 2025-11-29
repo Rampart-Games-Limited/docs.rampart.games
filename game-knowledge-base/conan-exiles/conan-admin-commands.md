@@ -57,6 +57,5 @@ icon: screwdriver-wrench
 | Set Server Setting                                                                                                                                               | `SetServerSetting "Setting" [Value]`                                              | Allows you to modify the Server Settings from ServerSettings.ini while in-game. Quotations are required.                                                                                                                                                                                                                                                                                                                     |
 
 \
-\
-
+<br>
 

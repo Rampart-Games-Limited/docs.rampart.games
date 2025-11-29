@@ -34,8 +34,7 @@ Common issues:
 * Wrong or blocked ports
 * Filters in the server browser hiding your server
 * Version mismatch after a patch
-* Server set to **LAN mode**\
-
+* Server set to **LAN mode**<br>
 
 **Please contact Rampart support if none of these are your issue**
 

@@ -12,8 +12,7 @@ Stop your Rust server
 {% step %}
 Backup your server directory
 
-*   Especially the following folders: \
-
+*   Especially the following folders: <br>
 
     ```
     /oxide/RustDedicated_Data/server/
@@ -27,8 +26,6 @@ Install uMod (Oxide) on your server
 2. Extract the contents into your Rust server root directory.
 3. Overwrite existing files if prompted\
    \-  This installs the modding hooks and creates the /oxide/ folder.
-
-
 {% endstep %}
 
 {% step %}
@@ -64,8 +61,6 @@ Configure plugins if needed in accordance with the mod instructions provided
 2. Then stop it.
 3. Config files will be auto-generated in: `/oxide/config`
 4. Edit the .json files to customize settings for each plugin.
-
-
 {% endstep %}
 
 {% step %}
@@ -101,9 +96,5 @@ Keep your server updated.
 [https://umod.org/download](https://umod.org/download)\
 \
 [https://umod.org/plugins?page=1\&sort=title\&sortdir=asc](https://umod.org/plugins?page=1\&sort=title\&sortdir=asc)
-
-
-
-
 {% endstep %}
 {% endstepper %}

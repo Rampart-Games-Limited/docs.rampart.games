@@ -10,8 +10,7 @@ The [Squad SDK](https://squad.fandom.com/wiki/Squad_SDK) is the official Squad s
 Below is a couple of useful links to help you get started\
 \
 [Squad Wiki](https://squad.fandom.com/wiki/Squad_SDK) \
-[Squad SDK](https://squad.fandom.com/wiki/Squad_SDK)\
-
+[Squad SDK](https://squad.fandom.com/wiki/Squad_SDK)<br>
 
 </details>
 
