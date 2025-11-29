@@ -63,6 +63,7 @@
   * [Faq](game-knowledge-base/valheim/faq.md)
   * [Setting a server name](game-knowledge-base/valheim/setting-a-server-name.md)
   * [Setting a password](game-knowledge-base/valheim/setting-a-password.md)
+  * [Importing a world seed](game-knowledge-base/valheim/importing-a-world-seed.md)
 * [VRising](game-knowledge-base/vrising.md)
   * [Faq](game-knowledge-base/vrising/faq.md)
 
