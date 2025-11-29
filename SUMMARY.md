@@ -62,6 +62,7 @@
 * [Valheim](game-knowledge-base/valheim/README.md)
   * [Faq](game-knowledge-base/valheim/faq.md)
   * [Setting the server name](game-knowledge-base/valheim/setting-the-server-name.md)
+  * [Setting a password](game-knowledge-base/valheim/setting-a-password.md)
 * [VRising](game-knowledge-base/vrising.md)
   * [Faq](game-knowledge-base/vrising/faq.md)
 
