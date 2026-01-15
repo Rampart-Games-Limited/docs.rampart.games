@@ -76,6 +76,10 @@ Now upload the file to the root directory of the game server
 
 With modlist installed Start the server up and allow installations, this can be seen as pictured in the Console.
 
+* Depending how many mods you want to load, this could take some time
+
+&#x20;    \- It will move any Bikeys to allow the mods to work correctly for you.
+
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
