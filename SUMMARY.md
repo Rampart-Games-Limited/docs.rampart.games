@@ -30,6 +30,7 @@
 * [DayZ](game-knowledge-base/dayz/README.md)
   * [Faq](game-knowledge-base/dayz/faq.md)
   * [Steam Update](game-knowledge-base/dayz/steam-update.md)
+  * [Exporting ModList.htm](game-knowledge-base/dayz/exporting-modlist.htm.md)
   * [DayZ modding help](game-knowledge-base/dayz/dayz-modding-help.md)
   * [Dayz Admin Commands](game-knowledge-base/dayz/dayz-admin-commands.md)
 * [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own/README.md)
