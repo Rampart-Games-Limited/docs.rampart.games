@@ -10,7 +10,7 @@ title: Dayz
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-<a href="../../game-knowledge-base/dayz/dayz-modding-help.md" class="button primary">Modding Help</a>
+<a href="/broken/pages/noZWX7UKfdsJUnEIiY8A" class="button primary">Modding Help</a>
 {% endcolumn %}
 
 {% column width="33.33333333333334%" %}

@@ -1,11 +1,17 @@
 ---
-description: Quick Guide on Dayz modding
+description: Quick Guide on steam updates
 icon: turn-up
 ---
 
-# DayZ modding help
+# Exporting ModList.htm
 
 {% include "../../.gitbook/includes/dayz.md" %}
+
+### For Mod installations This Guide will teach you how to export a modlist.html to place with your server files for the mods autoloading and distribution.
+
+\
+Prepare Server for new mod installations.
+-----------------------------------------
 
 {% stepper %}
 {% step %}
@@ -19,7 +25,7 @@ To avoid potential Corruption of files.
 
 * Mpmissions Folder
 
-&#x20;\- The contents of this folder should be saved locally in the case a mod update fails.
+&#x20;\- The contents of this folder often gets wiped removing all data if not backed up, saving this and uploading again after steam update will save you alot of time resolving issues.
 {% endstep %}
 
 {% step %}
@@ -29,19 +35,39 @@ To avoid potential Corruption of files.
 
 &#x20;  \- Update as Required, to avoid issues.
 {% endstep %}
-
-{% step %}
-### Configuration
-
-1. Click Startup under CONFIGURATION on the left menu
-
-<figure><img src="../../.gitbook/assets/config (1).png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### To be continued...
-
-
-{% endstep %}
 {% endstepper %}
 
+## Getting Started with the new modlist
+
+{% stepper %}
+{% step %}
+### Browse the steam workshop and subscribe to mods
+
+* Click Subscribe on the mods you wish to use (the green +).
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Launch Dayz via steam
+
+* Once loaded the Dayz Launcher will appear Click mods
+* Select More & "Export List of mods to file" Selecting All Mods or Only Loaded mods as you require.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Save File
+
+name the file modlist.html
+{% endstep %}
+
+{% step %}
+### Upload
+
+Now upload the file to the root directory of the game server
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
