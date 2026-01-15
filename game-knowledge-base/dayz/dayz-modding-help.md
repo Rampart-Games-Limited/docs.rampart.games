@@ -3,7 +3,7 @@ description: Quick Guide on steam updates
 icon: turn-up
 ---
 
-# Exporting ModList.htm
+# DayZ modding help
 
 {% include "../../.gitbook/includes/dayz.md" %}
 
@@ -69,5 +69,19 @@ name the file modlist.html
 Now upload the file to the root directory of the game server
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Start Server
+
+With modlist installed Start the server up and allow installations, this can be seen as pictured in the Console.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+###
+
+
 {% endstep %}
 {% endstepper %}
