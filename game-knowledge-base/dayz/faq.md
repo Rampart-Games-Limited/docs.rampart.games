@@ -48,3 +48,15 @@ Players cannot join after mod install?
 
 </details>
 
+<details>
+
+<summary>I cannot see my server on the server list</summary>
+
+I do not see my server listed
+
+* It could take 10-15 mins to list your game server on the master list
+* The DayZ server list can sometimes have "well known issues", please try using [https://dayzsalauncher.com/](https://dayzsalauncher.com/) You may beable to find your server on this list.
+* Check to ensure your server has the "online" status showing, your server may have a issue and may have not completed booting up.
+
+</details>
+
