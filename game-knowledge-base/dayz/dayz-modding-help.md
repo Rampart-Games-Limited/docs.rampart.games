@@ -84,6 +84,12 @@ With modlist installed Start the server up and allow installations, this can be 
 {% endstep %}
 
 {% step %}
+### Issues With mods
+
+If you have issues with the installed mods, it is reccomended to install 1 mod at a time to find the issue, issues usually are due to outdated mod, Dependancies not installed, mods clashing with other mods.
+{% endstep %}
+
+{% step %}
 ### Enjoy
 
 
