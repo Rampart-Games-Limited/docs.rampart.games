@@ -60,3 +60,86 @@ I do not see my server listed
 
 </details>
 
+<details>
+
+<summary>How Can i set Restart Timer for the game</summary>
+
+Setting Up the Ingame Built Restart Timer
+
+*   Locate your messages.xml<br>
+
+    ```
+    mpmissions/dayzOffline.chernarusplus/db/messages.xml
+    ```
+*   Add the below message block to your file<br>
+
+    ```
+        <message>
+            <deadline>240</deadline>
+            <shutdown>1</shutdown>
+            <text>#name will shutdown in #tmin minutes.</text>
+        </message>
+    ```
+
+    \
+    This should then restart your server every 240 mins and give your players a warning.\
+    \
+    Full file Below if you wish to just copy and replace everything in the file<br>
+
+    ```
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <messages>
+        <message>
+            <deadline>240</deadline>
+            <shutdown>1</shutdown>
+            <text>#name will shutdown in #tmin minutes.</text>
+        </message>
+    <!--
+    See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
+
+    Example messages:
+
+    1) following message will be displayed to every player in countdown manner
+        and shuts down server in 10 hours from its start
+
+        <message>
+            <deadline>600</deadline>
+            <shutdown>1</shutdown>
+            <text>#name will shutdown in #tmin minutes.</text>
+        </message>
+
+
+    2) following message will be displayed every 15 minutes to every player
+
+        <message>
+            <repeat>15</repeat>
+            <text>You're playing on my server (#name). Thank you .)</text>
+        </message>
+
+
+    3) following message will be displayed every 50 minutes to every player
+        and 10 minutes after player connect
+
+        <message>
+            <delay>10</delay>
+            <repeat>50</repeat>
+            <onconnect>1</onconnect>
+            <text>Check our web page at www.dayz.com</text>
+        </message>
+
+
+    4) following message will be displayed once
+        and 2 minutes after player connect
+
+        <message>
+            <delay>2</delay>
+            <onconnect>1</onconnect>
+            <text>Welcome to my server #name</text>
+        </message>
+        -->
+
+    </messages>
+    ```
+* Restart your server for it to take effect.
+
+</details>
