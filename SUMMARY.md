@@ -54,6 +54,7 @@
   * [Rust Server is not listed in browser](game-knowledge-base/rust/rust-server-is-not-listed-in-browser.md)
 * [Scum](game-knowledge-base/scum/README.md)
   * [Faq](game-knowledge-base/scum/faq.md)
+  * [I can't Find Animals](game-knowledge-base/scum/i-cant-find-animals.md)
   * [Admin Commands](game-knowledge-base/scum/admin-commands.md)
 * [Space Engineers](game-knowledge-base/space-engineers/README.md)
   * [Faq](game-knowledge-base/space-engineers/faq.md)

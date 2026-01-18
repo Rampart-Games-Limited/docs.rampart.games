@@ -80,7 +80,7 @@ With modlist installed Start the server up and allow installations, this can be 
 
 &#x20;    \- It will move any Bikeys to allow the mods to work correctly for you.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
