@@ -6,8 +6,13 @@
 
 * [Server Hardware](faq/server-hardware.md)
 * [Game Server](faq/game-server.md)
-* [Discord Bot Hosting](faq/discord-bot-hosting.md)
 * [Scheduled Tasks](faq/scheduled-tasks.md)
+
+## DISCORD BOT HOSTING KNOWLEDGE BASE
+
+* [Discord Bot FAQ](discord-bot-hosting-knowledge-base/discord-bot-faq.md)
+* [Discord Bot Hosting](discord-bot-hosting-knowledge-base/discord-bot-hosting/README.md)
+  * [Discord Bot hosting Guide](discord-bot-hosting-knowledge-base/discord-bot-hosting/discord-bot-hosting-guide.md)
 
 ## GAME KNOWLEDGE BASE
 
@@ -67,8 +72,3 @@
   * [Setting a password](game-knowledge-base/valheim/setting-a-password.md)
 * [VRising](game-knowledge-base/vrising.md)
   * [Faq](game-knowledge-base/vrising/faq.md)
-
-## DISCORD BOT HOSTING KNOWLEDGE BASE
-
-* [Discord Bot Hosting](discord-bot-hosting-knowledge-base/discord-bot-hosting/README.md)
-  * [Discord Bot hosting Guide](discord-bot-hosting-knowledge-base/discord-bot-hosting/discord-bot-hosting-guide.md)
