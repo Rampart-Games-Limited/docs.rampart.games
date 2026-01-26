@@ -50,7 +50,7 @@ Example useage of AdminUsers.ini<br>
 ```
 76561199521014775 <- enabling admin commands
 76561199521014775[SetGodMode] <- enabling admin commands + setgodmode
-76561199521014775[godmode, SetGodMode] admin commands + setgodmode
+76561199521014775[godmode, SetGodMode] <- admin commands + setgodmode
 ```
 
 \
