@@ -28,7 +28,7 @@ This can be done in the "StartUp" Area in the left menu of the Game panel
 
 <details>
 
-<summary>How do I get admin access?</summary>
+<summary>How to Add an Admin?</summary>
 
 Add your SteamID64 to the **Admins.txt** file (location varies by host), or use the hosting panel.\
 \
