@@ -40,8 +40,6 @@
 * [Hytale](game-knowledge-base/hytale/README.md)
   * [Faq](game-knowledge-base/hytale/faq.md)
   * [First Start up!](game-knowledge-base/hytale/first-start-up.md)
-  * [DayZ modding help](game-knowledge-base/hytale/dayz-modding-help.md)
-  * [Dayz Admin Commands](game-knowledge-base/hytale/dayz-admin-commands.md)
 * [Life is Feudal: Your Own](game-knowledge-base/life-is-feudal-your-own/README.md)
   * [Faq](game-knowledge-base/life-is-feudal-your-own/faq.md)
   * [Connecting to Feudal.Tools](game-knowledge-base/life-is-feudal-your-own/connecting-to-feudal.tools.md)
