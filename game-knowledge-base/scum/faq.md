@@ -45,6 +45,16 @@ SCUM/Saved/Config/WindowsServer/AdminUsers.ini.
 4\) Edit the File: Open AdminUsers.ini and add the Steam64 ID, with one ID per line.\
 Add Commands (Optional): For specific commands, add them in brackets after the ID (e.g., \[SetGodMode, Teleport]).\
 \
+Example useage of AdminUsers.ini<br>
+
+```
+76561199521014775 <- enabling admin commands
+76561199521014775[SetGodMode] <- enabling admin commands + setgodmode
+76561199521014775[godmode, SetGodMode] admin commands + setgodmode
+```
+
+\
+\
 5\) Save & Restart: Save the file and then start your SCUM server for the changes to take effect.<br>
 
 Admin commands are used in chat with a hashtag, such as:
