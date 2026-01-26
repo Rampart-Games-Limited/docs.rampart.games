@@ -30,7 +30,21 @@ This can be done in the "StartUp" Area in the left menu of the Game panel
 
 <summary>How do I get admin access?</summary>
 
-Add your SteamID64 to the **Admins.txt** file (location varies by host), or use the hosting panel.
+Add your SteamID64 to the **Admins.txt** file (location varies by host), or use the hosting panel.\
+\
+1\) Stop Your Server: Access your server control panel and stop the game server to safely edit files.\
+\
+2\) Locate AdminUsers.ini: Navigate to the file location
+
+```
+SCUM/Saved/Config/WindowsServer/AdminUsers.ini.
+```
+
+3\) Get Steam64 ID: Find the specific player's Steam64 ID (a long number) using a tool like [steamid.io/lookup](https://steamid.io/lookup) by pasting their Steam profile link.\
+\
+4\) Edit the File: Open AdminUsers.ini and add the Steam64 ID, with one ID per line.\
+Add Commands (Optional): For specific commands, add them in brackets after the ID (e.g., \[SetGodMode, Teleport]).\
+Save & Restart: Save the file and then start your SCUM server for the changes to take effect.<br>
 
 Admin commands are used in chat with a hashtag, such as:
 
