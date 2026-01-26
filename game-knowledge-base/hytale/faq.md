@@ -53,92 +53,18 @@ Players cannot join after mod install?
 
 I do not see my server listed
 
-* It could take 10-15 mins to list your game server on the master list
-* The DayZ server list can sometimes have "well known issues", please try using [https://dayzsalauncher.com/](https://dayzsalauncher.com/) You may beable to find your server on this list.
-* Check to ensure your server has the "online" status showing, your server may have a issue and may have not completed booting up.
+* Currently on launch no public server browser list is available same as minecraft, however we are more then sure for Hytale a server browser list will be available in short time.
+*   Please share your ip and port or connection code allowing players to join manually<br>
 
-</details>
-
-<details>
-
-<summary>How Can i set Restart Timer for the game</summary>
-
-Setting Up the Ingame Built Restart Timer
-
-*   Locate your messages.xml<br>
-
-    ```
-    mpmissions/dayzOffline.chernarusplus/db/messages.xml
-    ```
-*   Add the below message block to your file<br>
-
-    ```
-        <message>
-            <deadline>240</deadline>
-            <shutdown>1</shutdown>
-            <text>#name will shutdown in #tmin minutes.</text>
-        </message>
-    ```
-
-    \
-    This should then restart your server every 240 mins and give your players a warning.\
-    \
-    Full file Below if you wish to just copy and replace everything in the file<br>
-
-    ```
-    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <messages>
-        <message>
-            <deadline>240</deadline>
-            <shutdown>1</shutdown>
-            <text>#name will shutdown in #tmin minutes.</text>
-        </message>
-    <!--
-    See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
-
-    Example messages:
-
-    1) following message will be displayed to every player in countdown manner
-        and shuts down server in 10 hours from its start
-
-        <message>
-            <deadline>600</deadline>
-            <shutdown>1</shutdown>
-            <text>#name will shutdown in #tmin minutes.</text>
-        </message>
+    <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+* you can also click Add Server to insert the relevent information as pictured
 
 
-    2) following message will be displayed every 15 minutes to every player
 
-        <message>
-            <repeat>15</repeat>
-            <text>You're playing on my server (#name). Thank you .)</text>
-        </message>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+in this case the server will now appear in the Favorite section of the server browser as pictured below.<br>
 
-    3) following message will be displayed every 50 minutes to every player
-        and 10 minutes after player connect
-
-        <message>
-            <delay>10</delay>
-            <repeat>50</repeat>
-            <onconnect>1</onconnect>
-            <text>Check our web page at www.dayz.com</text>
-        </message>
-
-
-    4) following message will be displayed once
-        and 2 minutes after player connect
-
-        <message>
-            <delay>2</delay>
-            <onconnect>1</onconnect>
-            <text>Welcome to my server #name</text>
-        </message>
-        -->
-
-    </messages>
-    ```
-* Restart your server for it to take effect.
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 </details>
