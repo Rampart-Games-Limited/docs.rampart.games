@@ -40,20 +40,74 @@ To begin with ensure you already own the game and have the launcher and game ins
 {% endstep %}
 
 {% step %}
-### Start server
+### Registering the Server
 
-1. Ensure the steam update button is toggled
-2. Start server\
-   &#x20;\- Check Steam update is applied
-3. Turn off server
-4. Upload your backed up Mpmissions folder.
-5. Start server again
+1.  It will now begin to download the game server files and start the installation process you must again click the link below to start the registration process.<br>
+
+    <figure><img src="../../.gitbook/assets/hytale5.png" alt=""><figcaption></figcaption></figure>
+2. As Pictured below you must type when asked in console the following
+
+```
+/auth login device
+```
+
+<figure><img src="../../.gitbook/assets/hytale5a (1).png" alt=""><figcaption></figcaption></figure>
+
+*   It will now show in browser you are again authorised<br>
+
+    <figure><img src="../../.gitbook/assets/hytale3.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Enjoy
+### Ensuring you do not have to do this again!
 
-Your steam update should be complete with less work required then usual
+Now that you have Authorised your device fully it is time to ensure it remains so.
+
+at this point as pictured below you need to type/copy the following, to ensure your token Stays static
+
+```
+/auth persistance Encrypted
+```
+
+<figure><img src="../../.gitbook/assets/hytale8.png" alt=""><figcaption></figcaption></figure>
+
+You will then see that Authentication has been succesful and that the credentials have been stored in memory<br>
+{% endstep %}
+
+{% step %}
+Edit Configuration file
+
+It is now time to edit your ocnfiguration file, this is located in the servers root directory and is the config.json file as pictured.
+
+<figure><img src="../../.gitbook/assets/hytale10.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Configuration amendments
+
+Now here you are able to change the following:
+
+1. Server name
+2. Message of the day (MOTD)
+3. Server Password
+4. Max Players (No Limitation at [Rampart.Games](https://rampart.games), you are only limited by the game itself)
+5. World
+6. GameMode (Default Adventure)
+7. Much more as pictured below
+
+<figure><img src="../../.gitbook/assets/hytale11.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Restart the server
+
+&#x20;Now it is time to restart the server, at this point you should not need to reregister the server as you have completed Step 4
+
+<figure><img src="../../.gitbook/assets/hytale12.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Enjoy your new game server!
 
 
 {% endstep %}
