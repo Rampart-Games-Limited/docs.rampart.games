@@ -15,9 +15,10 @@ First start up can be somewhat finicky so lets get into how it is done.<br>
 {% step %}
 ### Turn on your server
 
-Welcome this your first start up, lets get into how to set it up.<br>
+Welcome to your first start up, lets get into how to set it up.<br>
 
-* Click on the link in the console it will be shown as below.
+* Click on the link in the console it will be shown as below.\
+  Use the top of the two links.
 
 ```
 https://oauth.accounts.hytale.com/oauth1/device/verify?user_code=YOURCODE
@@ -42,7 +43,8 @@ To begin with ensure you already own the game and have the launcher and game ins
 {% step %}
 ### Registering the Server
 
-1.  It will now begin to download the game server files and start the installation process you must again click the link below to start the registration process.<br>
+1.  It will now begin to download the game server files and start the installation process.\
+    You must again click the link in the console (pictured below) to start the registration process.<br>
 
     <figure><img src="../../.gitbook/assets/hytale5.png" alt=""><figcaption></figcaption></figure>
 2. As Pictured below you must type when asked in console the following
@@ -63,21 +65,21 @@ To begin with ensure you already own the game and have the launcher and game ins
 
 Now that you have Authorised your device fully it is time to ensure it remains so.
 
-at this point as pictured below you need to type/copy the following, to ensure your token Stays static
+At this point, as pictured below, you need to type/copy the following, to ensure your token stays valid.
 
 ```
-/auth persistance Encrypted
+/auth persistence Encrypted
 ```
 
 <figure><img src="../../.gitbook/assets/hytale8.png" alt=""><figcaption></figcaption></figure>
 
-You will then see that Authentication has been succesful and that the credentials have been stored in memory<br>
+You will then see that authentication has been successful and that the credentials have been stored in memory.<br>
 {% endstep %}
 
 {% step %}
 Edit Configuration file
 
-It is now time to edit your ocnfiguration file, this is located in the servers root directory and is the config.json file as pictured.
+It is now time to edit your configuration file. This is located in the servers root directory and is the config.json file as pictured.
 
 <figure><img src="../../.gitbook/assets/hytale10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -85,7 +87,7 @@ It is now time to edit your ocnfiguration file, this is located in the servers r
 {% step %}
 ### Configuration amendments
 
-Now here you are able to change the following:
+Here you are able to change the following:
 
 1. Server name
 2. Message of the day (MOTD)
@@ -101,7 +103,7 @@ Now here you are able to change the following:
 {% step %}
 ### Restart the server
 
-&#x20;Now it is time to restart the server, at this point you should not need to reregister the server as you have completed Step 4
+Restart the server to implement your config changes.  At this point you should not need to reregister the server again, as you have completed Step 4.
 
 <figure><img src="../../.gitbook/assets/hytale12.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
