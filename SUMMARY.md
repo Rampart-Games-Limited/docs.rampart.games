@@ -5,6 +5,9 @@
 ## FAQ
 
 * [Wallets & credits](faq/wallets-and-credits.md)
+* [Communities](faq/communities/README.md)
+  * [Creating a Community](faq/communities/creating-a-community.md)
+  * [Adding members](faq/communities/adding-members.md)
 * [Server Hardware](faq/server-hardware.md)
 * [Game Server](faq/game-server.md)
 * [Scheduled Tasks](faq/scheduled-tasks.md)
