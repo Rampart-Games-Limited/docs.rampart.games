@@ -1,4 +1,7 @@
 ---
+description: >-
+  Your wallet contains any credits you have purchased for use in the Rampart
+  store
 icon: square-sterling
 ---
 
