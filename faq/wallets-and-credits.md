@@ -4,9 +4,9 @@ icon: square-sterling
 
 # Wallets & credits
 
-When placing an order, you have the option to pay with credits.\
-To do so, you will need to have sufficient credits in your personal "wallet".\
-You can also use the subscriptions tab in My Account to change payment method between currency and credits.
+When placing an order, you have the option to pay with credits\
+To do so, you will need to have sufficient credits in your personal "wallet"\
+You can also use the subscriptions tab in My Account to change payment method between currency and credits
 
 To add credits to your wallet:
 
