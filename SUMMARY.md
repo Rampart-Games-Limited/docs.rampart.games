@@ -4,6 +4,7 @@
 
 ## FAQ
 
+* [Wallets & credits](faq/wallets-and-credits.md)
 * [Server Hardware](faq/server-hardware.md)
 * [Game Server](faq/game-server.md)
 * [Scheduled Tasks](faq/scheduled-tasks.md)
